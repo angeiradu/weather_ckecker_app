@@ -1,4 +1,4 @@
-##WEATHER CHECKER APPLICATION
+WEATHER CHECKER APPLICATION
 
 
 This small web application fetches and displays weather data using the OpenWeatherMap API. The app is built using HTML, CSS, and JavaScript.
@@ -10,11 +10,11 @@ This small web application fetches and displays weather data using the OpenWeath
 •	Display the current temperature, weather conditions, humidity, and wind speed.
 •	Allows users to search for weather data of specific cities.
 •	Responsive design that works well on both desktop and mobile devices.
+•	
 
 ## Usage
 
 •	Clone the repository or download the source code.
-
 •	Open the weather.html file in a web browser
 
 ## API Setup
