@@ -31,3 +31,5 @@ This small web application fetches and displays weather data using the OpenWeath
 ##Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+This is a video that explain how App it works https://www.loom.com/share/d3cafb96fa36400a9a9e59e899a8de14?sid=b852a8b2-0290-4da7-9fd5-8c99a54ff24a
